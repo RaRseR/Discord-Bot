@@ -1,4 +1,0 @@
-[dev]
-    discord_token = "MTA5NDI0MzQyNTMwNzYwMzAzNA.GkpE4R.aGJuolmohKhZvaMGEDGMLHdBBlfSgPLEnm3L38"
-[prod]
-    discord_token = ""
